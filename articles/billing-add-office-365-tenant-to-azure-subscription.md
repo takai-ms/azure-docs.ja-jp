@@ -62,7 +62,7 @@ Office 365 テナントを Azure サブスクリプションに関連付ける�
 ### <a name="associate-the-office-365-tenant-with-the-azure-subscription"></a>Office 365 テナントを Azure サブスクリプションに関連付ける
 Office 365 テナントを Azure サブスクリプションに関連付けるには、次の手順を実行します。
 
-1. サービス管理者の資格情報で[アカウント管理ポータル](https://account.windowsazure.com/subscriptions)にサインインします。
+1. サービス管理者の資格情報で[Azure クラシック ポータル](https://manage.windowsazure.com/)にサインインします。
 2. 左ウィンドウで、**[Active Directory]** を選択します。
    
    ![Azure Active Directory のエントリのスクリーンショット](./media/billing-add-office-365-tenant-to-azure-subscription/s35-classic-portal-active-directory-entry.png)
